@@ -1,9 +1,3 @@
-# Roblox project template
+# PreloadLib
 
-Just template of project for roblox game for vscode
-
-## Projects
-
-`tests.project.json` - project with unit tests
-
-`roblox-project-template.project.json` - project with game
+library for preload resources by Uri and keep it

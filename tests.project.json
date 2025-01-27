@@ -7,8 +7,8 @@
 			"Packages": { 
 				"$path": "Packages"
 			},
-			"DevPackages": { 
-				"$path": "DevPackages"
+			"shared": {
+				"$path": "src"
 			}
 		},
 		"Workspace": {
